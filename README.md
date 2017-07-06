@@ -1,4 +1,5 @@
 h-opc [![Build status](https://ci.appveyor.com/api/projects/status/wkcrsb9560sspprc?svg=true)](https://ci.appveyor.com/project/jmbeach/h-opc/branch/master) [![NuGet Status](http://img.shields.io/nuget/v/H.Opc.svg)](https://www.nuget.org/packages/H.Opc) [![Coverage Status](https://coveralls.io/repos/github/jmbeach/h-opc/badge.svg?branch=master)](https://coveralls.io/github/jmbeach/h-opc?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnaua%2Fh-opc.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnaua%2Fh-opc?ref=badge_shield)
 ==============
 
 An Opc Library and a command line to perform OPC operations with ease and transparency among different protocols. Currently supports synchronous operation over UA and DA protocols.
@@ -157,3 +158,7 @@ You must agree to the terms and condition exposed on the OPC Foundation website.
 ## Roadmap
 
 - [ ] Add promise-based asynchronous calls
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnaua%2Fh-opc.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fnaua%2Fh-opc?ref=badge_large)
